@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import AddCategory from "./components/AddCategory";
 import GifExpertApp from "./GifExpertApp";
 import "./index.css";
 
